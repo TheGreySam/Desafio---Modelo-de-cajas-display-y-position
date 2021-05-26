@@ -1,0 +1,81 @@
+.bandera-row {
+  display: flex;
+}
+.bandera1 {
+  border: 2px solid #808080;
+  height: 200px;
+  width: 300px;
+  background-color: red;
+}
+.bandera1detal {
+  height: 90px;
+  width: 300px;
+  background-color: yellow;
+  position: absolute;
+  top: 65px;
+}
+.bandera2 {
+  border: 2px solid #808080;
+  height: 200px;
+  width: 300px;
+  background-color: red;
+}
+.bandera2detal {
+  height: 20px;
+  width: 300px;
+  background-color: white;
+  position:absolute;
+  top: 355px;
+}
+.bandera2detal2 {
+  height: 200px;
+  width: 20px;
+  background-color: white;
+  position:absolute;
+  left: 100px;
+}
+.bandera3 {
+  border: 2px solid #808080;
+  height: 200px;
+  width: 300px;
+  background-color: red;
+}
+.bandera3detal {
+  height: 70px;
+  width: 218px;
+  background-color: white;
+  position:absolute;
+  left: 95px;
+  top: 580px;
+}
+.bandera3detal2 {
+  height: 70px;
+  width: 218px;
+  background-color: black;
+  position:absolute;
+  left: 95px;
+  top: 648px;
+}
+.bandera3detal3 {
+  height: 70px;
+  width: 218px;
+  background-color: green;
+  position:absolute;
+  left: 95px;
+  top: 518px;
+}
+.bandera4 {
+  border: 2px solid #808080;
+  height: 200px;
+  width: 300px;
+  background-color: white;
+}
+.bandera4detal {
+  height: 80px;
+  width: 80px;
+  background-color: red;
+  border-radius: 50%;
+  position:absolute;
+  left: 120px;
+  top: 828px;
+}zsxa
